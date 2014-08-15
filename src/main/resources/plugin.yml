@@ -1,0 +1,7 @@
+main: co.renegadeeagle.plugins.crash.Crash
+name: Crash
+version: 1.0
+author: RenegadeEagle
+commands:
+  crash:
+    description: Crashes a players client
